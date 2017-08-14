@@ -8,7 +8,7 @@ You can use the [editor on GitHub](https://github.com/salmanfarisvp/samplepage/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![](https://github.com/HacksterKerala/Independence_logo/blob/master/D8.png)
+![](http://salmanfaris.me/hackster/D1.png)
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
 
