@@ -1,4 +1,6 @@
- 
+
+
+
 
 ## Welcome to GitHub Pages
 
@@ -7,6 +9,8 @@ You can use the [editor on GitHub](https://github.com/salmanfarisvp/samplepage/e
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ![Image](https://github.com/HacksterKerala/Independence_logo/blob/master/D1.jpg)
+
+![](https://guides.github.com/activities/hello-world/branching.png)
 
 <p> 
 <img src= "https://github.com/HacksterKerala/Independence_logo/blob/master/D1.jpg" />
