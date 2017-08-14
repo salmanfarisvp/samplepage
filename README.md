@@ -1,4 +1,4 @@
-
+ 
 
 ## Welcome to GitHub Pages
 
@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![Image](https://github.com/HacksterKerala/Independence_logo/blob/master/D1.jpg)
 
 <p> 
-<img alt="" src= "https://github.com/HacksterKerala/Independence_logo/blob/master/D1.jpg"/>
+<img src= "https://github.com/HacksterKerala/Independence_logo/blob/master/D1.jpg" />
 </p>
 
 ### Markdown
