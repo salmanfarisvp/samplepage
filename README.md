@@ -12,9 +12,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
 
-<p> 
-<img src= "https://github.com/HacksterKerala/Independence_logo/blob/master/D1.jpg" />
-</p>
+![](https://github.com/HacksterKerala/Independence_logo/blob/master/D1.jpg)
+
 
 ### Markdown
 
